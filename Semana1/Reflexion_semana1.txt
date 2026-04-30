@@ -1,0 +1,12 @@
+Reflexión: 
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+Respuesta:
+Considero que las tres están altamente relacionadas, ya que se necesitar tener un alto grado de responsabilidad para saber manejar,
+difundir y compartir la información con otros.  
+Por ejemplo, en el caso de la información en internet, yo no puedo decidir que se publica o no, pero sí tengo el criterio para
+compartirla y es mi deber actuar responsablemente para no difundir información erronea y de esta manera no se cree más desinformación.
+En el caso de la participación ciudadana, es mi deber y responsabilidad aportar a la ciudadana de manera resposable y clara mis puntos de vista,
+mis argumentos y la información que deseo que otros vean teniendo criterio para no generar información falsa o que cree estigmas infundados a terceros
+Por último, en el caso de la organización del trabajo técnico, requiero responsabilidad para particiar en trabajo colaborativo con otros usuarios 
+sin incurrir en malos habitos que puedan generar daños al trabajo de otros, es decir, git me permite hacer trazabilidad de lo publicado, y yo,
+puedo aportar desde mi conocimiento para mejorar lo que ya está, pero si no tengo buenas practicas, puedo incurrir en atrasar el trabajo de otras personas
