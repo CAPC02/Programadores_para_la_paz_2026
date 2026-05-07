@@ -1,0 +1,41 @@
+ Id CommandLine                                                                                                                                              
+  -- -----------                                                                                                                                              
+   1 try { . "c:\Users\Cesia\AppData\Local\Programs\Microsoft VS Code\034f571df5\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegr...
+   2 ls                                                                                                                                                       
+   3 git status                                                                                                                                               
+   4 git checkout -b "CesiaPajaro"                                                                                                                            
+   5 echo "Semana2"                                                                                                                                           
+   6 cd Semana2                                                                                                                                               
+   7 mkdir Semana2                                                                                                                                            
+   8 touch Preguntas_semana2                                                                                                                                  
+   9 touch mm                                                                                                                                                 
+  10 ni Preguntas_semana2                                                                                                                                     
+  11 rm Preguntas_semana2                                                                                                                                     
+  12 ni Preguntas_Semana2.txt                                                                                                                                 
+  13 echo 1.¿Cual es la función principal de la terminal de un sistema operativo?                                                                             
+  14 1.¿Cual es la función principal de la terminal de un sistema operativo? > .\Preguntas_Semana2.txt                                                        
+  15 echo 1.¿Cual es la función principal de la terminal de un sistema operativo? >.\Preguntas_Semana2.txt                                                    
+  16 echo 1.¿Cual es la función principal de la terminal de un sistema operativo? >>.\Preguntas_Semana2.txt                                                   
+  17 echo -n 1.¿Cual es la función principal de la terminal de un sistema operativo? >.\Preguntas_Semana2.txt                                                 
+  18 echo -n Hola Mundo                                                                                                                                       
+  19 Echo -n holamundo                                                                                                                                        
+  20 echo hola mundo -nonewline                                                                                                                               
+  21 Write-Host "Hola mundo" -nonewline                                                                                                                       
+  22 echo "Hola mundo"                                                                                                                                        
+  23 Echo "1.¿Cual es la función principal de la terminal de un sistema operativo?" > .\Preguntas_Semana2.txt                                                 
+  24 echo "A. Crear presentaciones" "B. Ejecutar comandos para interactuar con el sistema" "C. Navegar redes sociales" "D. Diseñar páginas web" >.\Pregunta...
+  25 echo "1.¿Cual es la función principal de la terminal de un sistema operativo?" " A. Crear presentaciones" "B. Ejecutar comandos para interactuar con e...
+  26 echo "Respuesta" "B" >> .\Preguntas_Semana2.txt                                                                                                          
+  27 echo "2.¿Qué hace el comando pwd?" "A. Elimina archivos" "B.Muestra la ubicación actual dentro del sistema de carpetas" "C.Crea una nueva carpeta" "Ab...
+  28 echo "3. ¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?" "A.cd" "B.mkdir" "C.ls" "D.git" "Respuesta" "C" >> .\Pregunt...
+  29 echo "4.¿Cuál comando permite crear una carpeta nueva desde la terminal?" "A.touch" "B.mkdir" "C.ls""D.pwd""Respuesta" "B" >>.\Preguntas_Semana2.txt     
+  30 cd .\Semana2\                                                                                                                                            
+  31 touch Comando-Terminal.txt                                                                                                                               
+  32 ni Comando_Terminal_Semana2.txt                                                                                                                          
+  33 ni Reflexión_semana2.txt                                                                                                                                 
+  34 history                                                                                                                                                  
+  35 cd ..                                                                                                                                                    
+  36 moveitem .\Preguntas_Semana2.txt Semana2/                                                                                                                
+  37 Move-Item .\Preguntas_Semana2.txt Semana2/                                                                                                               
+  38 cd .\Semana2\                                                                                                                                            
+  39 echo " ¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?" "Respuesta" "Para...
