@@ -1,0 +1,9 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información,
+reportes o alertas de manera organizada?
+Consdero que una API actúa como un puente que organiza y distribuye los datos en tiempo real 
+para que la comunidad pueda reaccionar de manera oportuna ante cualquier emergencia.
+El uso de las APIs en la comunidad permite que diferentes herramientas o aplicaciones
+se conecten entre sí para centralizar toda la información de manera ordenada.
+Por ejemplo, se podrían unificar los reportes de varios barrios en una sola base de datos, 
+asegurando que las alertas de seguridad, salud o infraestructura no se pierdan en chats de WhatsApp
+y lleguen organizadas a los líderes o entidades encargadas
