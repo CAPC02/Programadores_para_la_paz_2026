@@ -1,0 +1,15 @@
+La respuesta a la petición que hice fue: 
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto ocurre porque en mi archivo server.js 
+configuré la línea app.use(express.json()) 
+para poder leer datos en formato JSON, 
+y luego use req.body.nombre y req.body.mensaje para
+capturar esos datos y devolverlos clonados dentro de res.json().
+
+La imagen de evidencia de encuenta adjunta bajo el nombre
+preba_api_semana6_resultado.png
