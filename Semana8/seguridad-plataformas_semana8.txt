@@ -1,0 +1,11 @@
+5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria: 
+1. No exponer datos personales de los usuarios y garantizar 
+la privacidad de la información registrada en la plataforma.
+2. Proteger las credenciales de acceso mediante contraseñas 
+seguras y mecanismos de autenticación adecuados.
+3. Utilizar conexiones seguras para la transmisión de datos,
+evitando que la información pueda ser interceptada por terceros.
+4. Registrar los accesos y actividades realizadas en la
+plataforma para facilitar el seguimiento y la detección de incidentes de seguridad.
+5. Limitar el acceso a la información sensible según
+los roles y permisos de cada usuario, asegurando que solo las personas autorizadas puedan consultarla o modificarla.
