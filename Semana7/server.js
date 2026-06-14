@@ -6,7 +6,7 @@ app.use(express.json());
 let reportes = [];
 
 app.get('/reportes', (req, res) => {
-  res.json(reportes);
+res.json(reportes);
 });
 
 app.post('/reportes', (req, res) => {

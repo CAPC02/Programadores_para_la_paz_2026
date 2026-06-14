@@ -1,0 +1,8 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades
+funcionen de manera estable y segura en un servidor?
+Considero que los servidores son el motor de funcionamiento de las plataformas
+y si este no funciona de manera correcta, toda la plataforma va a funcionar mal.
+Un servidor estable permite que los usuarios accedan a la plataforma siempre,
+sin presentar interrupciones, en cambio si no funciona bien, va a presentar fallas y 
+los usuarios no podrán interactuar con la plataforma. Además, la seguridad del servidor 
+ayuda a prevenir accesos no autorizados, pérdida de datos y posibles ataques informáticos

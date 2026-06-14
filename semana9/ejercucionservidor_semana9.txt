@@ -1,0 +1,12 @@
+1.¿Qué ocurre cuando ejecutas node server.js?
+Respuesta: Cuando ejecuto el comando carga mi archivo js, 
+se inicia el proyecto en la memoria y se me habilita el proyecto en
+un puerto, en mi caso puerto 3000, es decir, se habilita la lógica del servidor, 
+se configuran las rutas y se definen las respuestas que recibirán los usuarios
+
+2.¿Qué mensaje aparece en la terminal?
+Respuesta:Servidor ejecutándose en puerto 3000, al visitar la ruta
+http://localhost:3000/, me aparece el msm: Servidor activo y funcionando
+3.¿Qué sucede cuando visitas la ruta /estado?
+Respuesta: cuando visito la ruta http://localhost:3000/estado
+me aparece el msm {"estado":"Servidor funcionando","servicio":"API comunitaria"}
