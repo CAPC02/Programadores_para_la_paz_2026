@@ -1,0 +1,4 @@
+3 practicas básicas de seguridad digital:
+1. Utilizar contraseñas seguras y cambiarlas periódicamente para proteger el acceso a la información.
+2. No compartir credenciales de acceso con otras personas, incluso si forman parte del mismo equipo de trabajo.
+3. Mantener el software y los sistemas actualizados para corregir vulnerabilidades y reducir riesgos de seguridad.

@@ -1,0 +1,9 @@
+En mi caso los comandos que utilicé fueron get-computerInfo porque mi consola es powershell,
+este comando me da toda la información tecnica de mi sistema operativo y esta es de utilidad
+para muchas cosas, entre ellas la más importante es conocer a detalle mi sistema operativo
+las ultimas actualizaciones, la arquitectura. Todo lo anterior es también necesario conocerlo
+por ejemplo al momento de descargar programas.
+
+El comando whoami por su parte muestra el nombre de usuario, esta es de gran utilidad para 
+el tema de control de seguridad en mi dispositivo, ya que un mal uso de mi usuario principal
+podría borrar archivos muy importantes para mi pc y ocasionar daños graves
