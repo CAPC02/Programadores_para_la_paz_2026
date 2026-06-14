@@ -1,0 +1,19 @@
+Explicación de: 
+1. Sistema operativo: Es el software que administra los recursos del computador,
+como la memoria, el procesador y los dispositivos. 
+También proporciona el entorno básico necesario para la ejecución de programas.
+
+2.Node.js: Es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador.
+Sin necesidad de depender de un navegador web para interpretar las instrucciones.
+Se utiliza para desarrollar aplicaciones del lado del servidor, como servicios web y APIs.
+
+3.Aplicación server.js: Es el archivo que contiene el código de la aplicación.
+Al ejecutarlo con Node.js, se inicia la lógica del servidor, 
+se configuran las rutas y se definen las respuestas que recibirán los usuarios.
+
+4.Puerto: Es un punto de comunicación que permite que una aplicación reciba y envíe datos
+a través de la red. Es importante recordar que para acceder a el necesitamos la dirreccion del puerto
+
+5.Logs:Son registros de eventos y actividades que ocurren durante la ejecución de la aplicación.
+Se utilizan para monitorear el funcionamiento del sistema, 
+identificar errores y facilitar tareas de mantenimiento y depuración.
