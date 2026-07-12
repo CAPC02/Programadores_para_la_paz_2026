@@ -1,0 +1,18 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+Respuesta: Yo realizaría primero las tareas que considero de mayor importancia,
+las cuales son:
+1.Implementar el formulario de reporte anónimo de conexión ilegal de energía.
+2.Crear la vista de consulta y filtrado de reportes para el equipo interno.
+
+2.¿Por qué son las más importantes?
+Respuesta: Estas dos tareas representan el Producto Mínimo Viable (MVP) del sistema
+porque habilitan el flujo de valor,
+ya que sin reporte no hay datos para trabajar,
+también cierran el ciclo básico ya que permiten que el equipo consulte y filtre la información.
+y por ultimo mitigan el riesgo principal ya que protegen a la comunidad
+
+3.¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea terminada es una tarea que cumble el objetivo de usuario,
+además de ello debe tener el codigo funcionando sin erroes, 
+el cual pasó por la etapa de revisión detalladamente y además es visible en git y
+cuenta con todo el manual de usuarios para su uso. 

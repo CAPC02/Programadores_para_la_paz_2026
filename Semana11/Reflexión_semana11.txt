@@ -1,0 +1,6 @@
+¿Por qué una plataforma tecnológica que promueve participación ciudadana 
+debe tener base de datos, autenticación de usuarios y protección de información?
+Respuesta: que los datos se almacenen de forma organizada y segura
+el login impide que terceros accedan a la plataforma
+la protección de datos protege a los usuarios que participan en la platafoma
+y así evita que se haga uso indebido de la información almacenada

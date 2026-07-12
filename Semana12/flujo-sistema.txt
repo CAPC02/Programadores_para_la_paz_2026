@@ -1,0 +1,7 @@
+1.Un ciudadano registra una petición o reporta una problemática desde la plataforma.
+2. La información queda almacenada en la base de datos de forma organizada y segura.
+3. Otros ciudadanos pueden consultar la petición y apoyarla con un solo clic.
+4. El sistema actualiza automáticamente el número de apoyos recibidos y 
+muestra el avance de la petición.
+5. Cuando la petición reúne los apoyos necesarios, el sistema genera un documento 
+con la información para presentarlo ante la entidad correspondiente y facilitar su seguimiento.

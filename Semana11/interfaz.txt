@@ -1,0 +1,23 @@
+La interfaz tendría una sección para registrar un nuevo reporte, 
+con campos como categoría, descripción y ubicación del incidente. 
+Una vez enviado, el reporte aparecería en una lista donde la comunidad 
+podrá consultar las incidencias registradas y su estado.
+
+Cada reporte contará con un botón para agregar apoyo o confirmar que el problema 
+también afecta a otros ciudadanos, además de un contador que muestre cuántos apoyos 
+ha recibido. La interfaz será sencilla y organizada, 
+mostrando únicamente la información necesaria para el 
+seguimiento de los reportes y protegiendo los datos personales de los usuarios.
+
+Tomando como ejemplo el reporte de incidentes de robo de energia que he explicado en la
+semana 10, tendríamos: 
+La interfaz tendría un formulario para reportar un robo de energía, 
+con campos como tipo de reporte, descripción y ubicación. 
+También incluiría una opción para realizar el reporte de forma anónima.
+
+Debajo del formulario se mostraría una lista con los reportes registrados 
+para que la comunidad pueda consultarlos. 
+Cada reporte tendría un botón de Apoyo
+y un contador que indique cuántas personas han confirmado o apoyado ese reporte. 
+La plataforma solo mostraría la información necesaria y 
+no incluiría datos personales de quienes realizaron el reporte.
