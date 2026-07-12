@@ -1,0 +1,36 @@
+Entidad: Reporte
+Campos principales:
+id
+tipo_reporte
+descripcion
+ubicacion
+fecha
+estado
+Propósito:
+Guardar la información de los 
+reportes realizados por la comunidad para facilitar su 
+seguimiento y gestión.
+
+Entidad: Usuario
+Campos principales:
+id
+nombre
+correo
+rol
+fecha_registro
+Propósito:
+Registrar la información de los 
+usuarios de la plataforma y controlar los permisos de acceso según 
+el rol de cada persona.
+
+Entidad: Seguimiento
+Campos principales:
+id
+incidencia_id
+responsable
+observacion
+fecha_actualizacion
+Propósito:
+Registrar las acciones realizadas sobre cada incidencia, 
+documentando los avances, cambios de estado y observaciones 
+para mantener un historial del proceso.

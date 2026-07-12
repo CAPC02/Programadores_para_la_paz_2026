@@ -1,0 +1,6 @@
+1. Evento que activa el flujo: Se registra un reporte de un robo en progreso en la plataforma.
+2. Mensaje que se enviaría a Telegram: Se ha reportado un robo en progreso.
+3.Información que no debería enviarse por seguridad: No se deben enviar nombres de las personas 
+involucradas, datos de quien realizó el reporte, 
+direcciones exactas, números de identificación, teléfonos ni cualquier otra información 
+sensible que pueda poner en riesgo a los ciudadanos o afectar la investigación.

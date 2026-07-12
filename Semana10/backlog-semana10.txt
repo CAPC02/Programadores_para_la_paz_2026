@@ -1,0 +1,16 @@
+Historias de usuario organizadas en orden de importancia (1 a 5, siendo 1 la de mayor importancia): 
+
+1. Como ciudadano quiero reportar de forma anónima una conexión ilegal de energía
+para evitar represalias de los infractores.
+
+2. Como afectado quiero registrar un robo
+con su ubicación exacta para alertar a los vecinos sobre las zonas peligrosas del barrio.
+
+3. Como miembro del equipo quiero filtrar los reportes
+por tipo de delito para canalizarlos correctamente a la empresa de energía.
+
+4.Como coordinador quiero recibir una alerta inmediata en Telegram
+cuando se reporte un robo en progreso.
+
+5.Como veedor quiero generar un mapa de calor de los robos de energía
+para exigir a la empresa de servicios públicos mejoras en la infraestructura del sector.
